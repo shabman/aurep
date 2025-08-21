@@ -1,5 +1,5 @@
-This file is part of the mclean distribution (https://github.com/shabman/mclean)
-Copyright (c) 2025 Mustafa Malik.
+This file is part of the aurep distribution (https://github.com/shabman/aurep)
+Copyright (c) 2025 shab.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
